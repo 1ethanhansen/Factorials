@@ -1,0 +1,12 @@
+C:\Users\ethan.hansen\AppData\Local\Temporary Projects\Factorial\bin\Debug\Factorial.exe.config
+H:\Visual Basic\Factorial\Factorial\bin\Debug\Factorial.exe.config
+H:\Visual Basic\Factorial\Factorial\bin\Debug\Factorial.exe
+H:\Visual Basic\Factorial\Factorial\bin\Debug\Factorial.pdb
+H:\Visual Basic\Factorial\Factorial\bin\Debug\Factorial.xml
+H:\Visual Basic\Factorial\Factorial\obj\Debug\Factorial.Form1.resources
+H:\Visual Basic\Factorial\Factorial\obj\Debug\Factorial.Resources.resources
+H:\Visual Basic\Factorial\Factorial\obj\Debug\Factorial.vbproj.GenerateResource.Cache
+H:\Visual Basic\Factorial\Factorial\obj\Debug\Factorial.exe
+H:\Visual Basic\Factorial\Factorial\obj\Debug\Factorial.xml
+H:\Visual Basic\Factorial\Factorial\obj\Debug\Factorial.pdb
+H:\Visual Basic\Factorial\Factorial\obj\Debug\Factorial.vbprojResolveAssemblyReference.cache
