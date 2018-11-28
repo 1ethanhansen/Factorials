@@ -17,7 +17,7 @@ Just a bunch of bad factorial computing programs in a bunch of different languag
 * Kotlin
 
 ### Languages I'll probably get around to:
-* Entropy  
+* TypeScript  
 * Brainfuck  
 
 ### If you want to contribute:  
