@@ -14,7 +14,8 @@ Just a bunch of bad factorial computing programs in a bunch of different languag
 * RobotC  
 * Element  
 * Foo  
+* Kotlin
 
 ### Languages I'll probably get around to:
-* Kotlin
 * Entropy  
+* Brainfuck
