@@ -16,9 +16,9 @@ Just a bunch of bad factorial computing programs in a bunch of different languag
 * Foo  
 * Kotlin
 * Brainfuck
+* TypeScript
 
 ### Languages I'll probably get around to:
-* TypeScript  
 * Evil
 
 ### If you want to contribute:  
