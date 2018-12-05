@@ -17,6 +17,9 @@ Just a bunch of bad factorial computing programs in a bunch of different languag
 * Kotlin
 * Brainfuck
 * TypeScript
+* Ook
+* C
+* Swift
 
 ### Languages I'll probably get around to:
 * Evil
