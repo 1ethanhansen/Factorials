@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Page Title</title>
+		<script src="https://code.jquery.com/jquery-3.1.1.js"></script>
+		<script>
+            $(document).ready(function(){
+                $("#btn").click(function(){
+                var number = $("#num").val();
+                var output = 1;
+
+                if(number <= 0){
+                    output = 1;
+                }else{
+                    for(i=1; i<=number; i++){
+                        output = output*i;
+                    }
+                }
+                
+                $("#result").html(output);
+                
+                });
+            });
+        </script>
+	</head>
+	<body>
+		Enter a number:
+        <input type = "text" name = "value" id = "num"></input>
+        <button id= "btn"> Submit </button>
+        <p id = "result"> </p>
+	</body>
+</html>
