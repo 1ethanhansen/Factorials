@@ -4,6 +4,7 @@ Just a bunch of bad factorial computing programs in a bunch of different languag
 
 ## Languages:
 * Arduino  
+* AWK
 * C#  
 * Java  
 * Javascript  
