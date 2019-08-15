@@ -21,9 +21,7 @@ Just a bunch of bad factorial computing programs in a bunch of different languag
 * Ook
 * C
 * Swift
-
-### Languages I'll probably get around to:
-* Evil
+* Bash script
 
 ### If you want to contribute:  
 1. Pick a language to create a factorial program for
