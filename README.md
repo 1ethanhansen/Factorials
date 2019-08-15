@@ -23,6 +23,7 @@ Just a bunch of bad factorial computing programs in a bunch of different languag
 * Swift
 * Bash script
 * Perl
+* Wolfram Language
 
 ### If you want to contribute:  
 1. Pick a language to create a factorial program for

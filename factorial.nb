@@ -1,0 +1,8 @@
+Notebook[{Cell[
+CellGroupData[{Cell[
+BoxData[RowBox[{"Print","[",RowBox[{RowBox[{"Input","[","\"Enter a number to factorialize: \"","]"}],"!"}],"]"}]],
+"Input",ExpressionUUID -> "42b3a41e-d85b-4b2d-ac0f-d9e5406e152f",CellLabel -> "In[3]:= "],Cell[
+BoxData[
+"120",StandardForm],"Print",ExpressionUUID -> "ae7151d7-495b-4385-bce4-946e172484d7"]},
+Open],ExpressionUUID -> "846d4de4-7296-4dd0-9dfd-1f294742ce4a"]},StyleDefinitions -> "Default.nb",
+FrontEndVersion -> "12. for Wolfram Cloud 1.51 (August 2, 2019)"]
