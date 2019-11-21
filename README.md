@@ -24,10 +24,11 @@ Just a bunch of bad factorial computing programs in a bunch of different languag
 * Bash script
 * Perl
 * Wolfram Language
+* Rust
 
 ### If you want to contribute:  
 1. Pick a language to create a factorial program for
-2. Make sure that it hasn't been done in that language already
+2. Make sure that it hasn't been done in that language already (or improve an existing program)
 3. Create the factorial program in that language
 4. Fork the project and create a pull request
 5. Title the pull request with the language you are committing
