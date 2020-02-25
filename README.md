@@ -25,7 +25,8 @@ Just a bunch of bad factorial computing programs in a bunch of different languag
 * Perl
 * Wolfram Language
 * Rust
-* PHP
+* [PHP](../master/Factorial.php) (thanks to [Zynh0722])
+* [Fortran](../master/factorial1.f90) (thanks to [rajeshprasanth])
 
 ### If you want to contribute:  
 1. Pick a language to create a factorial program for
@@ -35,3 +36,7 @@ Just a bunch of bad factorial computing programs in a bunch of different languag
 5. Title the pull request with the language you are committing
 6. Add extra info I should know to the description (like where to test the code, how to input the factorial, etc)
 7. Wait for me to either accept or reject it (I'll try to tell you why I reject it if I did)
+
+
+[Zynh0722]: https://github.com/Zynh0722
+[rajeshprasanth]: https://github.com/rajeshprasanth
