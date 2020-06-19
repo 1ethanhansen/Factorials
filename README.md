@@ -24,9 +24,10 @@ Just a bunch of bad factorial computing programs in a bunch of different languag
 * Bash script
 * Perl
 * Wolfram Language
-* Rust
+* [Rust](../master/factorial.rs)
 * [PHP](../master/Factorial.php) (thanks to [Zynh0722])
 * [Fortran](../master/factorial1.f90) (thanks to [rajeshprasanth])
+* [Julia](../master/Factorial.jl)
 
 ### If you want to contribute:  
 1. Pick a language to create a factorial program for
