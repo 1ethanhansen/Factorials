@@ -23,11 +23,12 @@ Just a bunch of bad factorial computing programs in a bunch of different languag
 * Swift
 * Bash script
 * Perl
-* Wolfram Language
+* [Wolfram Language](../master/factorial.nb)
 * [Rust](../master/factorial.rs)
 * [PHP](../master/Factorial.php) (thanks to [Zynh0722])
 * [Fortran](../master/factorial1.f90) (thanks to [rajeshprasanth])
 * [Julia](../master/Factorial.jl)
+* [Clojure](../master/factorial.clj) (thanks to [alexjuda])
 
 ### If you want to contribute:  
 1. Pick a language to create a factorial program for
@@ -41,3 +42,4 @@ Just a bunch of bad factorial computing programs in a bunch of different languag
 
 [Zynh0722]: https://github.com/Zynh0722
 [rajeshprasanth]: https://github.com/rajeshprasanth
+[alexjuda]: https://github.com/alexjuda
