@@ -22,13 +22,14 @@ Just a bunch of bad factorial computing programs in a bunch of different languag
 * C
 * Swift
 * Bash script
-* Perl
+* [Perl](../master/factorial.pl)
 * [Wolfram Language](../master/factorial.nb)
 * [Rust](../master/factorial.rs)
 * [PHP](../master/Factorial.php) (thanks to [Zynh0722])
 * [Fortran](../master/factorial1.f90) (thanks to [rajeshprasanth])
 * [Julia](../master/Factorial.jl)
 * [Clojure](../master/factorial.clj) (thanks to [alexjuda])
+* [V](../master/factorial.v)
 
 ### If you want to contribute:  
 1. Pick a language to create a factorial program for
